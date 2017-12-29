@@ -20,19 +20,19 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Computer Science"
-  institution = "Tokyo Institution of Technology"
+  institution = "Tokyo Institute of Technology"
   year = 2003
 
 [[education.courses]]
   course = "MEng in Computer Science"
-  institution = "Tokyo Institution of Technology"
+  institution = "Tokyo Institute of Technology"
   year = 1996
 
 [[education.courses]]
   course = "BSc in Computer Science"
-  institution = "Tokyo Institution of Technology"
+  institution = "Tokyo Institute of Technology"
   year = 1994
- 
+
 +++
 
 # Biography
