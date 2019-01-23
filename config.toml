@@ -44,7 +44,7 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Georgetown University", url = "http://www.georgetown.edu/" }, { name = "MIT Media Lab (Director's liaison for Financial Cryptography)", url = "http://www.media.mit.edu/" },{ name = "Keio University (Project Professor)", url = "https://www.sfc.keio.ac.jp/en/" }, { name = "The University of Tokyo (Research Fellow)", url = "https://www.iis.u-tokyo.ac.jp/en/" } ]
+  organizations = [ { name = "Georgetown University", url = "http://www.georgetown.edu/" }, { name = "Director at Blockchain Technology and Ecosystem Design (B-TED) Research Center", url = "https://bted.georgetown.edu" }, { name = "Director's liaison for Financial Cryptography at MIT Media Lab", url = "http://www.media.mit.edu/" },{ name = "Project Professor at Keio University", url = "https://www.sfc.keio.ac.jp/en/" }, { name = "Research Fellow at yhe University of Tokyo", url = "https://www.iis.u-tokyo.ac.jp/en/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "matsuo.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.

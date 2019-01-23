@@ -17,11 +17,12 @@ weight = 60
 
 ## Academic Activities
 ### Program Chair
-- Scaling Bitcoin 2018
+- [Scaling Bitcoin 2018](https://tokyo2018.scalingbitcoin.org)
 - [Security Standardization Research 2015](http://www.springer.com/us/book/9783319271514)
 - Symposium on Cryptography and Information Security 2007
 
 ### Program Committee
+- [International Workshop on Cryptocurrencies and Blockchain Technology (CBT 2017), ESORICS 2018](http://deic.uab.cat/conferences/cbt/cbt2018/)
 - [Blockchain Protocol Analysis and Security Engineering 2018](https://cyber.stanford.edu/bpase18)
 - [CRYPTO-ECONOMICS SECURITY CONFERENCE 2017](https://cesc.io)
 - [International Workshop on Cryptocurrencies and Blockchain Technology (CBT 2017), ESORICS 2017](http://www.deic.uab.cat/~jherrera/CBT/)
@@ -55,13 +56,13 @@ weight = 60
 AsiaCrypt,RFIDSec Asia, IWSEC, Indocrypt, ACISP, Information Security Conference (ISC), IEEE Transactions on Vehicular Technology, IEICE transactions of fundamentals, IT Transactions, International Journal of Information Security, Journal of Information Procession Society of Japan
 
 ## Acamidec Initiative
-- [BSafe.network](http://bsafe.network), the international academic research network for blockchain Technology, co-founder
-- [BASE Alliance](http://base-alliance.org), academic-industry collaborative research and development alliance, steering committee member
+- [BSafe.network](http://bsafe.network), the international academic research network for Blockhain Technology, co-founder
+- [BASE Alliance](http://base-alliance.org), acamidic-industry collaboratuive research and development alliance, steering committee member
 
 ## Standardization
-### ISO/IEC JTC1
-- Head of Japan National Body committee (HoD of Japan National Body) (2011-2015)
-- Editor of [ISO/IEC 20009-2 (Anonymous Entity Authentication - Mechanisms based on signatures using a group public key)](https://www.iso.org/standard/56913.html), [ISO/IEC 19592-1 (Secret Sharing - General)](https://www.iso.org/standard/65422.html) and [ISO/IEC 29128 (Verification of Cryptographic Protocols)](https://www.iso.org/standard/45151.html).
+### ISO/IEC JTC1/SC27
+- Head of Japan National Body committee of SC27/WG2 (HoD of Japan National Body) (2011-2015)
+- Editor of [ISO/IEC 20009-2 (Anonymous Entity Authentication - Mechanisms based on signatures using a group public key)](https://www.iso.org/standard/56913.html), [ISO/IEC 19592-1 (Secret Sharing - General)](https://www.iso.org/standard/65422.html) and [ISO/IEC 29128 (Verifiacation of Cryptographic Protocols)](https://www.iso.org/standard/45151.html).
 
 ### ISO
 - Project leader and editor of [TC307 (Blockchain and DLT) WG2 (Security, Privacy Identity)](https://www.iso.org/committee/6266604.html) Security Technical Report project
@@ -71,7 +72,7 @@ AsiaCrypt,RFIDSec Asia, IWSEC, Indocrypt, ACISP, Information Security Conference
 - ITU Japanese mirroring committee on Information Security (2012-2015)
 
 ### National Standards
-- Advisory Board for Cryptographic Technology, CRYPTREC, Japanese Government (2011-2015)
+- Advisory Board for Cryptographic Technology, CRYPTREC, Japanese Govenment (2011-2015)
 - Cryptographic Operation Committee, CRYPTREC (2010-2013)
 - Cryptographic Techniques Study Working Group, CRYPTREC (2010-2013)
 - Japanese Governmental Committee on Risk evaluation method (2012-2015)
